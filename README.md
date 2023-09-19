@@ -32,7 +32,7 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 ```bash
-$ git clone https://github.com/your-username/your-project.git
+$ git clone https://github.com/your-username/your-project.git](https://github.com/taharoma/reqre-sample.git
 $ npm install
 ```
 
